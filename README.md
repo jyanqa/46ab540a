@@ -1,5 +1,5 @@
 ``work in progress..``
- :woman_technologist::woman_technologist::woman_technologist:
+ :scream::scream::woman_technologist:
 
 # Check if Amazon rating is reliable
 
