@@ -11,7 +11,7 @@ IfamazonratingsReliable is a package used for sentimentally analyzing reviews of
 
 ```bash
 # first install the R package "devtools" if not installed
-devtools::install_github('unimi-dse/46ab540a')
+devtools::install_github('jyanqa/46ab540a')
 ```
 
 ## Usage
